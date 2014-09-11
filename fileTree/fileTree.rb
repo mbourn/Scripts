@@ -1,5 +1,17 @@
 #!/usr/bin/ruby -w
 ###############################################################################
+#  Written  by: mbourn
+#  Written  on: 2/24/14
+#  Description: This is a script creates a text-based, simulated file tree.  
+#               The user can add and remove files, directories, and links as 
+#               well as display the current tree.  Files, links, and 
+#               directories can be nested to an arbitrary deapth.  No actual
+#               files, links, or directories are created on the host system, it
+#               is just a simulation.  It features a few recursive functions 
+#               that walk the tree.  This was the first program I created in
+#               ruby and it was an interesting way to learn the language.
+###############################################################################
+###############################################################################
 ###### Item superclass #########
 ###############################################################################
 
