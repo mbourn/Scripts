@@ -2,7 +2,7 @@ Scripts
 =======
 
 A collection of scripts written for school.  Most aren't terribly useful
-by themselves but contai
+by themselves but may contain interesting bits here and there.
 
 fileTree
 ----------------
