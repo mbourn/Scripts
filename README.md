@@ -49,3 +49,7 @@ a specified string.  It then prints the results to the screen.
 This is the long, readable version with verbose comments.  I'm
 told that this will be a very useful tool when I begin programming
 with ruby on rails.
+
+rfind2
+----------------
+This does the same thing as rfind, but the code is more dense and dificult to read, which I'm told makes it cooler.  Using the basic ideas I have here for tackling the problem, my Prof. was able to condense the code even further than this to 10 lines.
