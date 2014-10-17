@@ -53,3 +53,10 @@ with ruby on rails.
 rfind2
 ----------------
 This does the same thing as rfind, but the code is more dense and dificult to read, which I'm told makes it cooler.  Using the basic ideas I have here for tackling the problem, my Prof. was able to condense the code even further than this to 10 lines.
+
+stegBrute
+----------------
+For a capture the flag event we had to extract a flag that was embedded in a .bmp using steganography.
+The embedded file was password protected, so I wrote this script to brute crack the password using
+steghide and a user-supplied word list.  I'm currently making it a little cleaner, faster, and  more
+functional.  In the future I'd like to rewrite it to use threads to improve the speed.
